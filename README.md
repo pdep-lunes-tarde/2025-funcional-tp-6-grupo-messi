@@ -11,16 +11,13 @@
 
 ## Equipo
 
-- Nombre del grupo
+- Nombre del grupo: Grupo Messi 
 
-- Legajo: **Completar**
-- Nombre: **Completar**
+- Legajo: **2138815**
+- Nombre: **Denise A Medina Mosquera**
 
-- Legajo: **Completar**
-- Nombre: **Completar**
-
-- Legajo: **Completar**
-- Nombre: **Completar**
+- Legajo: **2183675**
+- Nombre: **Francisco Saizar**
 
 
 ## El enunciado
